@@ -1,0 +1,48 @@
+h1,p{text-align:center;
+		color:white;
+		font-family:algerian;
+		animation-name:calculator;
+		animation-duration:6s;
+		animation-delay:2s;
+		position:relative;
+		}
+		@keyframes calculator{
+		0%{color:pink;}
+		20%{color:cyan;}
+		40%{color:yellow;}
+		60%{color:red;}
+		80%{color:green;}
+		100%{color:white;}
+		}
+		#cal{
+		
+			background:black;
+			width:358px;;		
+			height:auto;
+			box-shadow:5px 5px 10px cyan;
+			margin:auto;
+			border-radius:15px;
+			
+		
+		}
+	input[type]{color:black;
+	background:transparent white ;
+	padding:28px;
+	font-size:20px;
+	text-align:center;
+	border-radius:10px;
+	box-shadow:5px 5px 20px cyan;
+	margin:1px;
+	margin-left: 3px;
+	
+	margin-right:10px;
+	margin-
+
+	}
+	input[type]:hover{background:lightcyan;}
+	body
+	{
+	background :url("https://image.freepik.com/free-photo/vintage-hanging-light-bulb-blue-background_208753-14.jpg");
+	background-size:cover;
+	}
+	
